@@ -5,6 +5,8 @@
 - I’m looking to collaborate on projects related to software development
 📫 How to reach me promiseojo35@gmail.com
 
+- My current skills: JAVA / JS / HTML / CSS/ PHP / C
+
 ![oojo8hub's Streak](https://github-readme-streak-stats.herokuapp.com/?user=oojo8hub&theme=dracula&hide_border=true)
 
 ![oojo8hub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oojo8hub&theme=dracula&show_icons=true&hide_border=false&layout=compact)
