@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 👋 Hi, I’m @oojo8hub (Promise Ojo)
+ <span>
    I’m interested in Software engineering, Product and team management 
+ </span>
+ 
    I’m looking to collaborate on projects related to software development
 📫 How to reach me promiseojo35@gmail.com 
 
