@@ -5,7 +5,21 @@
 - I’m looking to collaborate on projects related to software development
 📫 How to reach me promiseojo35@gmail.com
 
-- My current skills: JAVA / JS / HTML / CSS/ PHP / C  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/promise-ojo/)  
+- My current skills: JAVA / JS / HTML / CSS/ PHP / C
+ <div class="img-toggle">
+   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/promise-ojo/)]
+</div>
+
+.img-toggle {
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    top: 70px;
+    background: URL(resources/light-empire.jpg) center / cover;
+}
+
+-
+-    
 
 
 
