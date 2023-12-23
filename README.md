@@ -7,9 +7,10 @@
 
 - My current skills: JAVA / JS / HTML / CSS/ PHP / C
 
-![oojo8hub's Streak](https://github-readme-streak-stats.herokuapp.com/?user=oojo8hub&theme=dracula&hide_border=true)
+
 
 ![oojo8hub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oojo8hub&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/promise-ojo/)  
 
 
 
